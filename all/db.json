@@ -20,7 +20,7 @@
             "price" : 380,
             "category" : "Electronics"},
           { "id" : 5,
-            "img_src" : "https://via.placeholder.com/150/0000FF/808080"
+            "img_src" : "https://via.placeholder.com/150/0000FF/808080",
             "name" : "Asus Tuf-FX505",
             "price" : 800,
             "category" : "Electronics"}]}
