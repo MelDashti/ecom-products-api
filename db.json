@@ -1,26 +1,44 @@
 { "products" :[ 
           { "id" : 1,
-            "img_src" : "https://images.unsplash.com/photo-1583573636253-94ba40113201?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1796&q=80",
+            "img_src" : "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
             "name" : "Iphone 11 Pro",
-            "price" : 400,
+            "price" : 1000,
             "category" : "Electronics"},
           { "id" : 2,
-            "img_src" : "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-pro-family-hero?wid=940&hei=1112&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1604021663000",
+            "img_src" : "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80",
             "name" : "Samsung galaxy 20s",
             "price" : 500,
             "category" : "Electronics"},
           { "id" : 3,
-            "img_src" : "https://images-na.ssl-images-amazon.com/images/I/6149VluacJL._AC_SX522_.jpg",
+            "img_src" : "https://images.unsplash.com/photo-1583573636253-94ba40113201?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1796&q=80",
             "name" : "LG G10",
             "price" : 700,
             "category" : "Electronics"},
           { "id" : 4,
-            "img_src" : "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-pro-family-hero?wid=940&hei=1112&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1604021663000",
-            "name" : "Iphone 8",
+            "img_src" : "https://images.unsplash.com/photo-1528500731848-8208e0d62b5f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1047&q=80",
+            "name" : "Beats Solo3",
             "price" : 380,
             "category" : "Electronics"},
           { "id" : 5,
-            "img_src" : "https://via.placeholder.com/150/0000FF/808080",
-            "name" : "Asus Tuf-FX505DY",
+            "img_src" : "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "name" : "Playstation 5",
             "price" : 800,
-            "category" : "Electronics"}]}
+            "category" : "Electronics"}
+             
+          { "id" : 6,
+            "img_src" : "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "name" : "Airpods Pro",
+            "price" : 250,
+            "category" : "Electronics"}
+          { "id" : 7,
+            "img_src" : "https://images.unsplash.com/photo-1607452258545-943d7243463c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "name" : "Microsoft Surface Pro",
+            "price" : 1200,
+            "category" : "Electronics"}
+          { "id" : 8,
+            "img_src" : "https://images.unsplash.com/photo-1605901058027-ebdb31733cbf?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=375&q=80",
+            "name" : "Xbox X",
+            "price" : 850,
+            "category" : "Electronics"}
+
+]}
